@@ -9,4 +9,14 @@ body {
   align-items: center;
   min-height: 100vh;
   position: relative;
+  background-color: #121212;
+}
+.ring {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  border: 10px solid #ff0000;
+  border-radius: 50%;
+  box-shadow: 0 0 30px #ff000083, 0 0 50px #ff000093, inset 0 0 30px #ff000083,
+    inset 0 0 50px #ff000093;
 }
