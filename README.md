@@ -2,7 +2,7 @@
 
 https://codepen.io/AlexGolovanov/pen/VwQNjaM
 
-![image](readme/37.gif)
+![image](readme/37.gif);
 <br>
 ![gif](47.gif)
 ![vid](readme/3701.gif.mp4)
