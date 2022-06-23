@@ -11,5 +11,6 @@ https://codepen.io/AlexGolovanov/pen/VwQNjaM
 ![1](3701.gif.mp4)
 <video width="320" height="240" controls>
 
-  <source src="readme/3701.gif.mp4" type="video/mp4">
+  <source src="3701.gif.mp4" type="video/mp4">
 </video>
+'
