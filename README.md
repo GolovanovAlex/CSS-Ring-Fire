@@ -1,5 +1,9 @@
 # CSS-Ring-Fire
 
-https://codepen.io/AlexGolovanov/pen/VwQNjaM
+---
 
-![image](readme/ring.gif)
+[Demo Link CodePen](https://codepen.io/AlexGolovanov/pen/VwQNjaM)
+
+---
+
+![image-ring.gif](readme/ring.gif)
