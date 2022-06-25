@@ -12,9 +12,9 @@
 
 ## ![image-ring.gif](readme/ring.gif)
 
-## Title
+## Описание
 
-Описание.
+А тут текст.
 
 ---
 
