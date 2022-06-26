@@ -12,9 +12,9 @@
 
 ## ![image-ring.gif](readme/ring.gif)
 
-## Описание
+## Info
 
-А тут текст. ...
+Создано на основе видео с канала [Encrypted Code](https://www.youtube.com/channel/UCzDF0RAnLkpkBzBJ8uENtlQ)
 
 ---
 
