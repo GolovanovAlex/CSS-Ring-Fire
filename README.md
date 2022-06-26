@@ -16,6 +16,7 @@
 
 Создано на основе видео с Youtube канала [Encrypted Code](https://www.youtube.com/channel/UCzDF0RAnLkpkBzBJ8uENtlQ)
 Для обучения и отработки работы с SVG и CSS.
+
 ---
 ## Contacts
 
