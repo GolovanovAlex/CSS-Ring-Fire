@@ -14,7 +14,10 @@
 
 ## Info
 
-Создано на основе видео с канала [Encrypted Code](https://www.youtube.com/channel/UCzDF0RAnLkpkBzBJ8uENtlQ)
+Создано на основе видео с Youtube канала [Encrypted Code](https://www.youtube.com/channel/UCzDF0RAnLkpkBzBJ8uENtlQ)
+
+Для обучения и отработки работы 
+
 
 ---
 
