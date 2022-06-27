@@ -1,5 +1,5 @@
 # CSS-Ring-Fire
-***
+
 ### Use Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -10,7 +10,7 @@
 
 [Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/VwQNjaM)
 
-## ![image-ring.gif](readme/ring.gif)
+![image-ring.gif](readme/ring.gif)
 
 ## Info
 
