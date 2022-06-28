@@ -22,5 +22,6 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GolovanovAlex)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeConseiller_Alex)
-<a href="mailto:leconseiller@yandex.ru" style="font-size: 20px; color: black;"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a>Golovanov.a.a@yandex.ru</a>
+<a href="mailto:leconseiller@yandex.ru" style="font-size: 20px; color: black;"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  
+
+<a style="color:red;" >Golovanov.a.a@yandex.ru</a>
